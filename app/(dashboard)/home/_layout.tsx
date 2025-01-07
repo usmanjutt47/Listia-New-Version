@@ -13,6 +13,7 @@ export default function DrawerComponent() {
           drawerIcon: ({ color, size }) => (
             <Ionicons name="home" size={size} color={color} />
           ),
+          title: "Home",
         }}
       />
       <Drawer.Screen

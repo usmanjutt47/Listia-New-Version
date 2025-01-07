@@ -16,20 +16,20 @@ const { height, width } = Dimensions.get("window");
 const slides = [
   {
     id: 1,
-    image: require("../assets/images/splash1.png"),
+    image: require("../assets/splash1.png"),
     title: "Create and Share",
     subTitle: "Share shopping lists with family and friends",
   },
   {
     id: 2,
-    image: require("../assets/images/splash2.png"),
+    image: require("../assets/splash2.png"),
     title: "Welcome to Listia",
     subTitle:
       "Make your shopping the easiest and fastest, in advance by making a list of your products with Listia",
   },
   {
     id: 3,
-    image: require("../assets/images/splash3.png"),
+    image: require("../assets/splash3.png"),
     title: "Smart Categorization",
     subTitle:
       "Make your shopping easier with automatic grouping of products by category",
